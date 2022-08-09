@@ -1,0 +1,5 @@
+name,email,password,authority,status
+admin01,admin01@yorku.ca,123,3,0
+admin02,admin02@yorku.ca,123,3,0
+testOfficer01,test01@yorku.ca,123,2,0
+testOfficer02,test02@yorku.ca,123,2,0
